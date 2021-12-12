@@ -1,0 +1,9 @@
+.card-text {
+  text-align: Left;
+  background-color: aqua;
+}
+
+ul {
+  list-style-type: initial;
+  font-size: large;
+}
